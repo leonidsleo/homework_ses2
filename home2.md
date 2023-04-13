@@ -14,6 +14,10 @@
 
 ![котик на сегу](https://mirpozitiva.ru/wp-content/uploads/2019/11/1480494344_kot_sneg.jpg)
 
+Изображение из папки
+
+![Cat](Cat.jpg) 
+
 2. ## Работа с командами GIT.
 
 git --version (или git -v) - Посмотреть версию
