@@ -17,5 +17,14 @@
 ![Cat](Cat.jpg) 
 
 2. ## Работа с командами GIT.
+
+git --version (или git -v) - Посмотреть версию
+
+git config --global user.name leonid - представляемся гит
+
+git config --global user.email leonidsleo@yandex.ru - указываем свою почту
+
+git init - создаем репозиторий
+
 3. ## Выделение и стили в Маркдаун
 4. ## Какие бывают системы контроля версий
